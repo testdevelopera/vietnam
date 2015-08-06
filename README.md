@@ -1,4 +1,3 @@
 #vietnam
 hi
-hi 1
-hi 2
+how are you?
